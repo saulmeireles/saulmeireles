@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Eu sou Saul Meireles</h1>
-<h3 align="center">Estudante de ciência de dados</h3>
+<h3 align="center">Estudante de Ciência de Dados</h3>
 
 - Atualmente estou desenvolvendo habilidades em **Python e Machine Learning**
 
